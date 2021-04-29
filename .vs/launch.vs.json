@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "",
+      "project": "deps\\hiredis\\CMakeLists.txt",
+      "projectTarget": "hiredis.dll",
+      "name": "hiredis.dll"
+    }
+  ]
+}

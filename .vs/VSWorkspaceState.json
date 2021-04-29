@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\deps",
+    "\\deps\\hiredis",
+    "\\deps\\jemalloc",
+    "\\deps\\jemalloc\\msvc"
+  ],
+  "SelectedNode": "\\deps\\hiredis\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,8 @@
+CMakeFiles\hiredis.dir\alloc.c.obj
+CMakeFiles\hiredis.dir\async.c.obj
+CMakeFiles\hiredis.dir\dict.c.obj
+CMakeFiles\hiredis.dir\hiredis.c.obj
+CMakeFiles\hiredis.dir\net.c.obj
+CMakeFiles\hiredis.dir\read.c.obj
+CMakeFiles\hiredis.dir\sds.c.obj
+CMakeFiles\hiredis.dir\sockcompat.c.obj

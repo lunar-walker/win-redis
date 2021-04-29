@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Debug/CMakeFiles/hiredis.dir/embed.manifest"

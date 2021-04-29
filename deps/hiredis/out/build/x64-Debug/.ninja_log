@@ -1,0 +1,13 @@
+# ninja log v5
+13	383	6413312132676974	CMakeFiles/hiredis.dir/dict.c.obj	7569049f5e610ce
+1	399	6413312132887003	CMakeFiles/hiredis.dir/alloc.c.obj	85d372311747c515
+19	444	6413312133206992	CMakeFiles/hiredis.dir/sockcompat.c.obj	4a439ce785b8c0d2
+22	457	6413312133306989	CMakeFiles/hiredis.dir/sds.c.obj	6f5b66b0d7798794
+7	461	6413312133356998	CMakeFiles/hiredis.dir/hiredis.c.obj	fcd7d4b1e6c87db1
+10	463	6413312133336997	CMakeFiles/hiredis.dir/async.c.obj	4aa3a4e5f8379d37
+25	468	6413312133516974	CMakeFiles/hiredis-test.dir/test.c.obj	e35cddc986cade8a
+16	469	6413312133507001	CMakeFiles/hiredis.dir/read.c.obj	5cc23fd63bc69211
+4	478	6413312133327023	CMakeFiles/hiredis.dir/net.c.obj	2fe5f6bfdfea45de
+479	1633	6413312141082129	hiredis.dll	9b5f879c0474cc60
+479	1633	6413312141082129	hiredis.lib	9b5f879c0474cc60
+1634	2529	6413312149875998	hiredis-test.exe	61605d7e65c8acdb

@@ -1,0 +1,8 @@
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/hiredis.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/install/local.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/install.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/edit_cache.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/hiredis-test.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/test.dir
+D:/code/redis-6.2.2/deps/hiredis/out/build/x64-Release/CMakeFiles/list_install_components.dir
